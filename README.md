@@ -1,3 +1,3 @@
 # Shell-Script
-
-自己用的shell脚本，不考虑兼容性
+ 
+许久以前学linux时写的shell脚本，自个用的,不考虑兼容性
